@@ -1,0 +1,2 @@
+state = dict()
+state['info'] = ''
